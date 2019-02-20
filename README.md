@@ -2,17 +2,17 @@ Suggested Study Order:
 
 1. variables, data types, and numerical operators
 2. basic input/output
-• logic ( if statements, switch statements )
-• loops ( for, while, do-while )
-• arrays
-• pseudo random number generation
-• strings & string functions
-• functions
-• structures/classes
-• enumerated data
-• file input/output
-• pointers
-• sorting
-• linked lists
-• advanced classes
-• recursion
+3. logic ( if statements, switch statements )
+4. loops ( for, while, do-while )
+5. arrays
+6. pseudo random number generation
+7. strings & string functions
+8. functions
+9. structures/classes
+10. enumerated data
+11. file input/output
+12. pointers
+13. sorting
+14. linked lists
+15. advanced classes
+16. recursion
