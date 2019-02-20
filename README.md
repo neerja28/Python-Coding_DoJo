@@ -1,7 +1,7 @@
 Suggested Study Order:
 
-• variables, data types, and numerical operators
-• basic input/output
+1. variables, data types, and numerical operators
+2. basic input/output
 • logic ( if statements, switch statements )
 • loops ( for, while, do-while )
 • arrays
